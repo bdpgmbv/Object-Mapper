@@ -1,0 +1,7 @@
+{
+    "identityFieldPaths": ["doerId"],
+    "outputFieldPaths": ["doerId", "doerDetails.doerName"],
+    "ignoreFieldPath": "doerAddress.*",
+    "ignore": true,
+    "numberTolerance": 0.00
+}
